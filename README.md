@@ -17,3 +17,7 @@ HTML e CSS em `docs`; banco e interação em `docs/assets/study.js`. IDs de ques
 ## Português — Texto 1
 
 Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões interativas e versão para leitura/impressão. Banco e interação em `docs/assets/portugues-texto-1.js`; armazenamento e exportação isolados do PODC pelo módulo `pt-01`. Comentários pessoais ficam no campo de explicação, no navegador, e só chegam ao tutor quando o usuário compartilha a exportação.
+
+## Sintaxe e pontuação
+
+`docs/modulos/portugues-sintaxe-pontuacao/`: síntese, oito questões autorais e versão de impressão. Banco/interação em `docs/assets/portugues-sintaxe-pontuacao.js`; armazenamento isolado pelo módulo `pt-g01`, versão 1. Fonte editorial no vault: Sintaxe e pontuação.md e banco JSON homônimo.
