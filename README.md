@@ -29,3 +29,7 @@ Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões in
 ## Constitucional — módulo 1
 
 `docs/modulos/constitucional-1/`: módulo, dez questões autorais comentadas, impressão e diagnóstico das fontes de exercícios. Banco e interação em `docs/assets/constitucional-1.js`, módulo `dc-01`, versão 1. Fontes editoriais no vault: Constituição princípios e eficácia.md e 05 - Questões/constitucional-1.json. Cada correção remete à seção correspondente; originais comerciais e respostas pessoais permanecem privados.
+
+## Constitucional — módulo 2
+
+`docs/modulos/constitucional-2/`: direitos e garantias fundamentais, síntese inicial, consulta temática, caso SAEB, vinte questões autorais comentadas e impressão. Banco/interação em `docs/assets/constitucional-2.js`, módulo `dc-02`, versão 1, armazenamento independente. Fonte editorial no vault: Direitos e garantias fundamentais.md e 05 - Questões/constitucional-2.json. Leitura de cinco PDFs/272 páginas; fontes oficiais e ressalvas temporais registradas.
