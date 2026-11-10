@@ -21,3 +21,7 @@ Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões in
 ## Sintaxe e pontuação
 
 `docs/modulos/portugues-sintaxe-pontuacao/`: síntese, oito questões autorais e versão de impressão. Banco/interação em `docs/assets/portugues-sintaxe-pontuacao.js`; armazenamento isolado pelo módulo `pt-g01`, versão 1. Fonte editorial no vault: Sintaxe e pontuação.md e banco JSON homônimo.
+
+## Diagnóstico de Gramática
+
+`docs/modulos/portugues-diagnostico/`: 12 questões (6 de concordância nominal, 6 de acentuação), correção após a bateria completa, resultados por assunto e impressão. Motor/banco em `assets/portugues-diagnostico.js`, módulo `pt-d01`, versão 1; exportação isolada. Não atribui domínio automaticamente.
