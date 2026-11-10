@@ -25,3 +25,7 @@ Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões in
 ## Diagnóstico de Gramática
 
 `docs/modulos/portugues-diagnostico/`: 12 questões (6 de concordância nominal, 6 de acentuação), correção após a bateria completa, resultados por assunto e impressão. Motor/banco em `assets/portugues-diagnostico.js`, módulo `pt-d01`, versão 1; exportação isolada. Não atribui domínio automaticamente.
+
+## Constitucional — módulo 1
+
+`docs/modulos/constitucional-1/`: módulo, dez questões autorais comentadas, impressão e diagnóstico das fontes de exercícios. Banco e interação em `docs/assets/constitucional-1.js`, módulo `dc-01`, versão 1. Fontes editoriais no vault: Constituição princípios e eficácia.md e 05 - Questões/constitucional-1.json. Cada correção remete à seção correspondente; originais comerciais e respostas pessoais permanecem privados.
