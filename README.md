@@ -41,3 +41,15 @@ Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões in
 ## Constitucional — módulo 4
 
 `docs/modulos/constitucional-4/`: Administração Pública e servidores na Constituição, item 2.5, síntese, caso SAEB, 18 questões autorais comentadas e impressão. Banco/interação em `docs/assets/constitucional-4.js`, módulo `dc-04`, versão 1. Fonte canônica no vault: Administração Pública e servidores na Constituição.md e 05 - Questões/constitucional-4.json. Fontes e ressalvas constam do registro privado de leitura do DC-04.
+
+## Administração Pública — AP-01
+
+`docs/modulos/ap-01/`: Estado, poder e governo; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ap-01.js`, módulo `ap-01`, versão 1. Fonte editorial no vault.
+
+## Direito Administrativo — DA-01
+
+`docs/modulos/da-01/`: Estado, Administração e LINDB; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-01.js`, módulo `da-01`, versão 1. Fonte editorial no vault.
+
+## Direito Administrativo — DA-02
+
+`docs/modulos/da-02/`: Organização administrativa; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-02.js`, módulo `da-02`, versão 1. Fonte editorial no vault.
