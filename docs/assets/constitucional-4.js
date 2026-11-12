@@ -2,380 +2,380 @@
 const questions = [
   {
     "id": "dc-04-q01",
-    "section": "principios",
-    "source": "Aula 03, pp. 38–39; CF, art. 37, caput.",
-    "text": "A diretoria administrativa do Tribunal de Justiça da Bahia contrata serviços de limpeza e organiza seu quadro de apoio. Um parecer interno sustenta que os princípios do art. 37 só vinculam o Poder Executivo, porque o Tribunal exerce função jurisdicional. O parecer:",
+    "section": "alcance",
+    "source": "Aula 03, pp. 38–40; CF, art. 37, caput.",
+    "text": "Uma Assembleia Legislativa decide que seus serviços de pessoal estão fora do art. 37 porque sua função típica é legislar. Qual análise procede?",
     "options": [
-      "Acerta, porque a autonomia do Judiciário afasta os princípios administrativos de seus atos internos.",
-      "Acerta quanto à legalidade, mas erra quanto à publicidade, único princípio comum a todos os Poderes.",
-      "Erra apenas se a contratação usar recursos federais.",
-      "Erra, porque o art. 37 alcança a administração direta e indireta de qualquer dos Poderes, e a atividade descrita é função administrativa.",
-      "Acerta, porque o art. 37 se limita a Ministérios e Secretarias."
+      "Somente o Executivo estadual integra a administração pública.",
+      "O art. 37 só se aplica se houver transferência federal de recursos.",
+      "A atuação administrativa da Assembleia está sujeita ao art. 37, embora sua função típica seja legislativa.",
+      "A Assembleia se torna autarquia quando contrata servidores.",
+      "Os princípios valem apenas para empresas públicas."
     ],
-    "answer": 3,
+    "answer": 2,
     "comments": [
-      "Autonomia institucional não retira a atividade administrativa do alcance do caput.",
-      "O caput não seleciona princípios por Poder: os cinco valem para todos.",
-      "A origem do recurso não é condição de incidência do art. 37.",
-      "Correta. A função administrativa existe também nos Poderes cuja função típica é outra, e o caput os inclui expressamente.",
-      "O texto fala em administração direta e indireta de qualquer dos Poderes, em todos os entes."
+      "O art. 37 abrange a atuação administrativa dos demais Poderes.",
+      "A origem do recurso não define esse alcance.",
+      "Correta. O caput alcança a administração de qualquer Poder.",
+      "O órgão legislativo não adquire personalidade autárquica por contratar.",
+      "Também valem para a administração direta e outras entidades indiretas."
     ]
   },
   {
     "id": "dc-04-q02",
-    "section": "principios",
-    "source": "Aula 03, pp. 39–40; CF, art. 37, caput, e art. 5º, X e XXXIII.",
-    "text": "Para mostrar transparência, uma Secretaria estadual pretende publicar na internet a lista nominal dos beneficiários de um programa de saúde, com CPF, endereço e diagnóstico de cada um. Qual avaliação é adequada?",
+    "section": "alcance",
+    "source": "Aula 03, pp. 39–41; CF, art. 37, caput.",
+    "text": "A SAEB elimina etapa de defesa exigida por lei e chama a mudança de eficiência. Qual é a avaliação constitucional?",
     "options": [
-      "A publicação é obrigatória, porque a publicidade não admite nenhuma restrição.",
-      "A publicidade não exige expor dados pessoais sensíveis sem necessidade; o programa pode divulgar despesas e resultados preservando os dados protegidos.",
-      "A publicação é vedada, porque programas de saúde não se submetem ao princípio da publicidade.",
-      "A publicação é válida se o Secretário assinar a lista, por força da impessoalidade.",
-      "A eficiência autoriza a publicação, pois reduz custos de atendimento a pedidos de informação."
+      "Eficiência prevalece sempre que reduz o tempo médio do processo.",
+      "A publicidade da decisão posterior substitui automaticamente a defesa.",
+      "A impessoalidade valida a eliminação se a defesa for negada a todos.",
+      "Só há problema quando o gestor obtém vantagem financeira pessoal.",
+      "Eficiência não dispensa garantia legal; deve ser buscada dentro das condições jurídicas aplicáveis."
     ],
-    "answer": 1,
+    "answer": 4,
     "comments": [
-      "A própria Constituição ressalva intimidade e sigilo; publicidade não é exposição indiscriminada.",
-      "Correta. Publicidade serve ao controle e convive com intimidade e hipóteses legais de sigilo.",
-      "Programas de saúde também prestam contas; o que se protege são dados pessoais, não o programa.",
-      "A assinatura não muda o problema, e impessoalidade não autoriza expor dados.",
-      "Eficiência não é exceção geral às demais normas constitucionais."
+      "Resultado operacional não derroga exigência legal.",
+      "Conhecimento posterior não equivale à participação defensiva exigida.",
+      "Violação uniforme continua violação.",
+      "A legalidade e a defesa não dependem dessa vantagem.",
+      "Correta. Rapidez não torna lícita a supressão da defesa devida."
     ]
   },
   {
     "id": "dc-04-q03",
     "section": "ingresso",
-    "source": "Aula 03, p. 41; CF, art. 37, III.",
-    "text": "Edital de concurso da SAEB fixou validade de 18 meses. Perto do fim, a autoridade decide prorrogar. Qual prorrogação é constitucionalmente admitida?",
+    "source": "Aula 03, pp. 41–42; CF, art. 37, II–IV; STF, Temas 161/784.",
+    "text": "Concurso com validade inicial de um ano é regularmente prorrogado. Candidata fora das vagas vê surgir nova vaga, sem outro dado. Qual conjunto está correto?",
     "options": [
-      "Uma única vez, por mais 18 meses.",
-      "Uma única vez, por mais 24 meses, porque dois anos é o máximo.",
-      "Duas vezes, por seis meses cada, até completar 30 meses.",
-      "Sem limite, enquanto houver aprovados não nomeados.",
-      "Nenhuma, porque prazos superiores a um ano não admitem prorrogação."
+      "A prorrogação é obrigatoriamente de dois anos e a vaga gera nomeação automática.",
+      "A prorrogação admitida é de mais um ano; a vaga isolada não garante nomeação à candidata fora das vagas.",
+      "A prorrogação pode ocorrer duas vezes se restar cadastro de reserva.",
+      "A vaga encerra imediatamente o concurso anterior.",
+      "Emprego público dispensa concurso, logo a validade só importa para cargo."
     ],
-    "answer": 0,
+    "answer": 1,
     "comments": [
-      "Correta. A prorrogação é uma vez, por igual período ao fixado, dentro do teto de dois anos para o prazo original.",
-      "Dois anos limitam o prazo original; a prorrogação repete o período fixado.",
-      "O texto admite uma prorrogação apenas.",
-      "A existência de aprovados não cria prorrogações sucessivas.",
-      "Qualquer prazo até dois anos pode ser prorrogado uma vez."
+      "Erra o prazo igual e o efeito da vaga isolada.",
+      "Correta. Prazo igual ao original e análise de eventual preterição são filtros distintos.",
+      "O inciso III admite uma única prorrogação.",
+      "Surgimento de vaga não extingue sua validade.",
+      "O art. 37, II, alcança cargo e emprego."
     ]
   },
   {
     "id": "dc-04-q04",
     "section": "ingresso",
-    "source": "Aula 03, pp. 41–43; CF, art. 37, II e V.",
-    "text": "O governo quer trazer uma especialista sem vínculo com o Estado para coordenar um núcleo de avaliação de políticas. Qual alternativa descreve uma via compatível com a Constituição?",
+    "source": "Aula 03, pp. 43–45; CF, art. 37, V; SV 13.",
+    "text": "Pessoa externa experiente é designada para função de confiança destinada a chefia. O que falta para a designação?",
     "options": [
-      "Designá-la para função de confiança, porque a experiência dispensa o vínculo efetivo.",
-      "Contratá-la temporariamente pelo art. 37, IX, para coordenar o núcleo de forma permanente.",
-      "Nomeá-la para cargo efetivo sem concurso, por notório saber.",
-      "Designá-la para função de confiança depois de aprovação em seleção simplificada.",
-      "Nomeá-la para cargo em comissão de direção previsto em lei, observado o percentual mínimo de cargos destinados a servidores de carreira."
+      "Ocupar cargo efetivo: função de confiança é exclusiva desses servidores.",
+      "Aprovação do governador, que dispensa o vínculo efetivo.",
+      "Contrato temporário de seis meses, equivalente a cargo efetivo.",
+      "Promessa de aprovação futura em concurso.",
+      "Apenas escolaridade superior e remuneração abaixo do teto."
     ],
-    "answer": 4,
+    "answer": 0,
     "comments": [
-      "Função de confiança é exclusiva de ocupante de cargo efetivo.",
-      "Contratação temporária não se presta a função permanente de direção.",
-      "Cargo efetivo depende de concurso; notório saber não é ressalva do inciso II.",
-      "Seleção simplificada não a torna ocupante de cargo efetivo.",
-      "Correta. Cargo em comissão admite pessoa externa e se destina a direção, chefia ou assessoramento."
+      "Correta. Experiência e destinação adequada não substituem o requisito pessoal.",
+      "A autoridade nomeante não afasta o art. 37, V.",
+      "Contratação temporária não cria titularidade de cargo efetivo.",
+      "A exigência é atual, não promessa posterior.",
+      "Esses dados não suprem a exclusividade constitucional."
     ]
   },
   {
     "id": "dc-04-q05",
     "section": "ingresso",
     "source": "Aula 03, pp. 44–45; CF, art. 37, IX; STF, Tema 612.",
-    "text": "Um órgão estadual mantém, há quatro anos, contratos temporários de seis meses, sempre renovados, para o atendimento diário ao público, que é atividade permanente. A justificativa é a \"falta de concurso\". Qual análise é correta?",
+    "text": "Órgão mantém contratações temporárias sucessivas para carência ordinária e permanente de analistas, alegando que cada contrato tem prazo fixo. Qual resposta é adequada?",
     "options": [
-      "A contratação é válida, porque cada contrato respeita prazo determinado.",
-      "A contratação é válida se houver lei estadual autorizando qualquer contratação temporária.",
-      "O prazo curto não transforma a demanda ordinária e permanente em necessidade temporária de excepcional interesse público.",
-      "A contratação é válida porque atendimento ao público é serviço essencial.",
-      "A contratação só seria inválida se os contratados tivessem sido escolhidos sem seleção."
+      "Todo contrato inferior a um ano satisfaz o art. 37, IX.",
+      "A mera importância do serviço dispensa concurso permanentemente.",
+      "A seleção simplificada transforma a carência permanente em temporária.",
+      "Prazo determinado não basta: é preciso necessidade temporária excepcional, nos termos legais e da tese do STF.",
+      "Só órgãos federais precisam justificar a excepcionalidade."
     ],
-    "answer": 2,
+    "answer": 3,
     "comments": [
-      "Prazo é só um dos requisitos; não supre a natureza da necessidade.",
-      "A lei deve prever casos excepcionais; não pode legitimar rotina permanente.",
-      "Correta. O Tema 612 exige necessidade temporária, interesse excepcional e indispensabilidade, além de lei e prazo.",
-      "Essencialidade não dispensa os demais pressupostos.",
-      "Seleção não resolve o desvio de finalidade das renovações para demanda permanente."
+      "Duração individual não demonstra excepcionalidade da necessidade.",
+      "Serviço importante também pode requerer pessoal efetivo.",
+      "A forma de seleção não altera o fato gerador da necessidade.",
+      "Correta. A necessidade descrita é ordinária e permanente.",
+      "O inciso alcança os entes nas condições constitucionais."
     ]
   },
   {
     "id": "dc-04-q06",
-    "section": "ingresso",
-    "source": "Aula 03, pp. 41–42; STF, Temas 161 e 784.",
-    "text": "Candidato aprovado em 15º lugar num concurso com 10 vagas soube que, durante a validade, o Estado abriu novo concurso para o mesmo cargo. Nenhum outro fato foi informado. Segundo o STF:",
+    "section": "estrutura",
+    "source": "Aula 03, pp. 45–46; CF, art. 37, XIX.",
+    "text": "Projeto estadual reúne uma autarquia e uma empresa pública. Qual operação corresponde ao art. 37, XIX?",
     "options": [
-      "A abertura do novo certame, sozinha, não gera direito à nomeação; é preciso demonstrar preterição arbitrária e imotivada.",
-      "Ele passa a ter direito à nomeação, como se tivesse sido aprovado dentro das vagas.",
-      "O novo concurso é nulo, porque nenhum certame pode ser aberto durante a validade de outro.",
-      "O concurso anterior perde a validade automaticamente.",
-      "A prorrogação do primeiro concurso torna-se obrigatória."
+      "Decreto cria a autarquia e lei específica cria diretamente a empresa.",
+      "Contrato cria ambas sem lei específica.",
+      "Lei específica cria a autarquia e autoriza a instituição da empresa pública.",
+      "Lei apenas autoriza ambas; o contrato cria a autarquia.",
+      "A empresa pública é órgão interno sem personalidade."
     ],
-    "answer": 0,
+    "answer": 2,
     "comments": [
-      "Correta. O Tema 784 não confere direito automático a quem está fora das vagas.",
-      "Confunde as situações dos Temas 161 e 784.",
-      "O inciso IV dá prioridade aos aprovados no prazo; não proíbe a abertura de novo certame.",
-      "A abertura de outro certame não extingue a validade do anterior.",
-      "Não existe prorrogação obrigatória por esse motivo."
+      "Inverte forma e efeito previstos no inciso.",
+      "Nenhuma das duas dispensa o fundamento legislativo indicado.",
+      "Correta. Criação e autorização são verbos constitucionalmente distintos.",
+      "A autarquia é criada pela lei específica.",
+      "Empresa pública integra a administração indireta e tem personalidade própria."
     ]
   },
   {
     "id": "dc-04-q07",
-    "section": "remuneracao",
-    "source": "Aula 03, p. 53; CF, art. 37, X e XIII.",
-    "text": "Lei estadual estabelece que a remuneração dos analistas de uma autarquia será reajustada automaticamente sempre que houver reajuste dos auditores fiscais. Qual é o vício central?",
+    "section": "estrutura",
+    "source": "Aula 03, pp. 45–49; CF, art. 37, §§ 1º, 3º, 8º e 16.",
+    "text": "Uma campanha estadual traz imagem de dirigente para promovê-lo; outra divulga o objeto avaliado de uma política e os resultados, sem dados pessoais indevidos. Qual avaliação é correta?",
     "options": [
-      "Falta de lei específica, porque o reajuste foi feito por lei.",
-      "Violação da irredutibilidade dos auditores.",
-      "Ofensa à revisão geral anual, que proíbe reajustes setoriais.",
-      "Vinculação de espécies remuneratórias, vedada pelo art. 37, XIII.",
-      "Efeito cascata do art. 37, XIV."
+      "A primeira afronta a vedação de promoção pessoal; a segunda pode cumprir finalidade informativa e o dever de divulgação da avaliação.",
+      "Ambas são proibidas porque publicidade administrativa é sempre sigilosa.",
+      "A primeira é válida se a política deu bons resultados.",
+      "A segunda é proibida porque resultados só podem ser conhecidos pelo gestor.",
+      "A primeira é válida quando o dirigente autoriza por escrito."
     ],
-    "answer": 3,
+    "answer": 0,
     "comments": [
-      "A forma legal foi observada; o problema é o mecanismo de vinculação.",
-      "Nada se reduz; a irredutibilidade não é o fundamento da vedação.",
-      "Revisão geral e reajustes de carreira por lei específica convivem.",
-      "Correta. A lei cria ligação automática entre remunerações de carreiras distintas.",
-      "O inciso XIV trata de acréscimo calculado sobre acréscimo, não de ligação entre carreiras."
+      "Correta. Transparência institucional e promoção pessoal têm fundamentos diferentes.",
+      "Publicidade é princípio, sujeita a limites concretos.",
+      "Resultado não transforma promoção pessoal em divulgação institucional.",
+      "O § 16 prevê divulgação do objeto e resultados na forma legal.",
+      "Autorização pessoal não afasta vedação constitucional."
     ]
   },
   {
     "id": "dc-04-q08",
-    "section": "remuneracao",
-    "source": "Aula 03, pp. 52–53; CF, art. 39, §§ 4º e 8º.",
-    "text": "Proposta orçamentária prevê, para o Secretário estadual da Administração, subsídio mais uma \"verba de representação\" mensal. Para analistas organizados em carreira, propõe passar a remuneração para subsídio. Qual leitura está correta?",
+    "section": "estrutura",
+    "source": "Aula 03, pp. 48–49; CF, art. 37, § 6º.",
+    "text": "Agente público causa dano a terceiro nessa qualidade; dano e nexo estão demonstrados. Qual distinção corresponde à regra geral do art. 37, § 6º?",
     "options": [
-      "Ambas as propostas são vedadas, porque subsídio só se aplica a membros de Poder.",
-      "A verba de representação é vedada para o Secretário, remunerado por subsídio em parcela única; o subsídio para a carreira é facultativo e depende de lei.",
-      "A verba é válida se fixada por lei, e o subsídio é obrigatório para todas as carreiras.",
-      "A verba é válida porque representação tem natureza indenizatória por definição.",
-      "Subsídio de carreira pode ser instituído por decreto, desde que respeitado o teto."
+      "Terceiro deve provar culpa grave da pessoa jurídica em todos os casos.",
+      "O regresso dispensa dolo ou culpa por também ser objetivo.",
+      "Pagamento ao terceiro elimina qualquer direito de regresso.",
+      "Todo desconforto gera indenização sem necessidade de dano ou nexo.",
+      "Responsabilidade objetiva da pessoa jurídica perante o terceiro; regresso contra agente exige dolo ou culpa."
     ],
-    "answer": 1,
+    "answer": 4,
     "comments": [
-      "O § 4º inclui Secretários, e o § 8º permite a extensão a carreiras.",
-      "Correta. O § 4º veda acréscimos ao subsídio; o § 8º permite adotá-lo para carreiras.",
-      "O § 4º veda a verba mesmo por lei, e o § 8º é faculdade.",
-      "O nome não define a natureza; o § 4º menciona expressamente a verba de representação.",
-      "Remuneração e subsídio exigem lei específica (art. 37, X)."
+      "Não é requisito geral do regime objetivo.",
+      "A Constituição ressalva o elemento subjetivo do agente.",
+      "O dispositivo assegura regresso nas condições indicadas.",
+      "Responsabilidade objetiva não dispensa dano e causalidade.",
+      "Correta. Os pressupostos dos dois planos não são idênticos."
     ]
   },
   {
     "id": "dc-04-q09",
-    "section": "teto",
-    "source": "Aula 03, pp. 54–56; CF, art. 37, XI e § 9º.",
-    "text": "O Estado mantém duas empresas: X, sociedade de economia mista que paga sua folha com receita própria de tarifas, sem recursos estaduais; Y, empresa pública que recebe recursos do Tesouro para custeio em geral. Sobre o teto do art. 37, XI:",
+    "section": "remuneracao",
+    "source": "Aula 03, pp. 52–54; CF, art. 37, X, XIII e XIV; SV 37.",
+    "text": "Portaria estabelece que a carreira A terá reajuste automático igual ao da carreira B. Qual é o problema central?",
     "options": [
-      "Aplica-se a ambas, porque toda estatal integra a administração indireta.",
-      "Não se aplica a nenhuma, porque empresas estatais são de direito privado.",
-      "Aplica-se a Y, que recebe recursos para custeio, e não se aplica a X na situação descrita.",
-      "Aplica-se só a X, por ter capital privado.",
-      "Aplica-se só se a empresa prestar serviço público."
+      "Portaria basta sempre que a remuneração permanecer abaixo do teto.",
+      "A remuneração pode ser alterada por decisão judicial de isonomia.",
+      "Revisão geral anual significa vinculação entre quaisquer carreiras.",
+      "Fixação remuneratória exige lei específica e a vinculação automática entre espécies remuneratórias é vedada.",
+      "A vedação só existe entre União e Estado, não dentro do mesmo ente."
     ],
-    "answer": 2,
+    "answer": 3,
     "comments": [
-      "Para estatais, o critério do § 9º é o financiamento, não a mera natureza.",
-      "A natureza privada não afasta o § 9º quando há recursos públicos para pessoal ou custeio.",
-      "Correta. O § 9º condiciona a incidência ao recebimento de recursos para pessoal ou custeio em geral.",
-      "Inverte o critério constitucional.",
-      "O § 9º não usa esse critério."
+      "Teto não dispensa lei nem elimina a vedação de vinculação.",
+      "A SV 37 afasta aumento judicial com esse fundamento.",
+      "Revisão geral tem disciplina própria; não valida a indexação descrita.",
+      "Correta. Portaria e indexação cruzada não substituem as condições constitucionais.",
+      "O inciso XIII não estabelece essa exceção."
     ]
   },
   {
     "id": "dc-04-q10",
-    "section": "teto",
-    "source": "Aula 03, pp. 54–55; CF, art. 37, XI e § 12.",
-    "text": "Um Município pretende, por emenda à sua lei orgânica, adotar como limite único de toda a remuneração municipal o subsídio dos Desembargadores do TJ. Qual é a avaliação correta?",
+    "section": "acumulacao",
+    "source": "Aula 03, pp. 57–58; CF, art. 37, XVI; EC 138/2025.",
+    "text": "Professora efetiva pretende ocupar outro cargo público administrativo, não técnico nem científico. Os horários são compatíveis. No texto vigente no corte do edital:",
     "options": [
-      "Pode, desde que o limite não ultrapasse 90,25% do subsídio dos Ministros do STF.",
-      "Pode, porque a autonomia municipal permite fixar o próprio teto.",
-      "Pode, desde que exclua os Vereadores.",
-      "Deve fazê-lo, porque o subteto único é obrigatório.",
-      "Não pode: o § 12 é faculdade dos Estados e do DF, por emenda à Constituição estadual ou à Lei Orgânica do DF; no Município o limite é o subsídio do Prefeito."
+      "A acumulação é impossível porque o segundo cargo não é técnico ou científico.",
+      "A combinação pode enquadrar-se em professor com outro cargo de qualquer natureza, observadas as demais condições.",
+      "A professora pode ocupar três cargos administrativos adicionais.",
+      "A compatibilidade horária dispensa teto e demais limites.",
+      "A regra só vale se os dois cargos forem do mesmo ente."
     ],
-    "answer": 4,
+    "answer": 1,
     "comments": [
-      "O percentual integra a regra estadual; não autoriza o Município.",
-      "A autonomia é exercida dentro do art. 37, XI.",
-      "A exclusão de Vereadores é ressalva da opção estadual, não autorização municipal.",
-      "O § 12 é faculdade, e de Estados e DF.",
-      "Correta. O texto não estende a opção aos Municípios."
+      "Repete a redação anterior à EC 138/2025.",
+      "Correta. A EC 138/2025 retirou a exigência anterior de cargo técnico ou científico nessa alínea.",
+      "A emenda não criou autorização geral para quatro vínculos.",
+      "Horários são uma condição, não a única.",
+      "O inciso não cria essa exigência geral."
     ]
   },
   {
     "id": "dc-04-q11",
     "section": "acumulacao",
-    "source": "Aula 03, pp. 57–58; CF, art. 37, XVI e XVII; EC 138/2025.",
-    "text": "Todas as situações têm horários compatíveis e respeitam o teto. I — Professora da rede estadual assume cargo de analista administrativo no município. II — Técnico administrativo estadual assume cargo de assistente administrativo em empresa pública municipal. III — Enfermeiro do Estado assume emprego de enfermeiro em hospital municipal. São admitidas:",
+    "source": "Aula 03, pp. 57–59; CF, art. 37, XVI; STF, Tema 384.",
+    "text": "Dois cargos administrativos comuns, em entes diferentes, têm horários compatíveis. Qual é a resposta?",
     "options": [
-      "Apenas I e III.",
-      "Apenas I.",
-      "Apenas II e III.",
-      "I, II e III.",
-      "Apenas III, porque desde a EC 138 o segundo cargo do professor ainda precisa ser técnico ou científico."
+      "A compatibilidade não supre a falta de hipótese constitucional de acumulação.",
+      "Entes diferentes sempre autorizam acumulação.",
+      "Bom desempenho nos dois vínculos substitui a hipótese legal.",
+      "O Tema 384 autoriza quaisquer dois cargos se nenhum superar o teto.",
+      "Os dois cargos se tornam de saúde se estiverem lotados em hospitais."
     ],
     "answer": 0,
     "comments": [
-      "Correta. I é professor com cargo de qualquer natureza; III, dois privativos de saúde. II não tem hipótese constitucional, e a vedação alcança a indireta.",
-      "III se enquadra na alínea c: dois cargos ou empregos privativos de profissional de saúde.",
-      "II não se enquadra em nenhuma exceção, ainda que em entes diferentes.",
-      "Compatibilidade de horários não cria exceção não prevista para II.",
-      "A EC 138/2025 trocou essa exigência por \"outro de qualquer natureza\"."
+      "Correta. Primeiro é preciso enquadrar a combinação em exceção do inciso XVI.",
+      "A Constituição não prevê essa exceção geral.",
+      "Desempenho não altera a vedação constitucional.",
+      "O precedente trata teto de acumulações já autorizadas.",
+      "Lotação não torna cargo administrativo privativo de profissional de saúde."
     ]
   },
   {
     "id": "dc-04-q12",
     "section": "mandato",
-    "source": "Aula 03, pp. 59–60; CF, art. 38.",
-    "text": "Servidora efetiva estadual, segurada do RPPS, é eleita deputada estadual. Qual descrição está correta?",
+    "source": "Aula 03, pp. 59–60; CF, art. 38, II–III.",
+    "text": "Servidor efetivo é eleito prefeito e demonstra horários compatíveis; colega é eleita vereadora com horários compatíveis. Como tratar os dois casos?",
     "options": [
-      "Pode acumular cargo e mandato se houver compatibilidade de horários.",
-      "Fica afastada e pode optar pela remuneração do cargo, como o Prefeito.",
-      "Fica afastada do cargo; o tempo conta para todos os efeitos, exceto promoção por merecimento, e ela permanece no RPPS de origem.",
-      "Fica afastada, e o tempo de mandato não conta para nenhum efeito.",
-      "Deve pedir exoneração do cargo efetivo."
+      "Ambos acumulam exercício e pagamentos por terem horários compatíveis.",
+      "Ambos perdem definitivamente o cargo de origem.",
+      "Prefeito acumula e vereadora deve se afastar obrigatoriamente.",
+      "Ambos se afastam sem qualquer opção remuneratória.",
+      "Prefeito se afasta e pode optar pela remuneração; vereadora pode perceber vantagens do vínculo e remuneração eletiva."
     ],
-    "answer": 2,
+    "answer": 4,
     "comments": [
-      "Essa solução é exclusiva do Vereador.",
-      "O inciso I não prevê opção para mandato estadual.",
-      "Correta. Combina os incisos I, IV e V do art. 38.",
-      "O tempo conta para todos os efeitos, salvo promoção por merecimento.",
-      "O art. 38 prevê afastamento, não exoneração."
+      "A regra do prefeito exige afastamento.",
+      "Mandato não implica essa perda automática.",
+      "Inverte os incisos II e III.",
+      "Ignora a opção do prefeito e a situação de vereadora compatível.",
+      "Correta. Compatibilidade produz solução diferente para vereador."
     ]
   },
   {
     "id": "dc-04-q13",
-    "section": "regime",
-    "source": "Aula 03, pp. 50–51; CF, art. 39, caput; STF, ADI 2.135.",
-    "text": "Após o julgamento de mérito da ADI 2.135, um decreto estadual converte os atuais servidores estatutários de uma autarquia em empregados celetistas. A medida:",
+    "section": "estabilidade",
+    "source": "Aula 03, pp. 63–64; CF, art. 41, caput e §§ 1º, 4º.",
+    "text": "Servidor nomeado para cargo efetivo completa três anos de exercício. O que ainda é condição obrigatória para adquirir estabilidade?",
     "options": [
-      "É válida, porque o STF restabeleceu a obrigatoriedade do regime jurídico único.",
-      "É válida, porque a decisão teve efeitos retroativos à EC 19/1998.",
-      "É válida se aprovada pelo conselho de política de administração e remuneração de pessoal.",
-      "É inválida: a decisão teve efeitos ex nunc e vedou a transmudação de regime dos atuais servidores; regimes de futuros ingressos dependem de lei.",
-      "É obrigatória para toda a administração indireta."
+      "Avaliação periódica de perda do cargo, que substitui a especial.",
+      "Novo concurso interno para converter o cargo em estável.",
+      "Avaliação especial de desempenho por comissão instituída para essa finalidade.",
+      "Homologação judicial obrigatória de cada estágio.",
+      "Aprovação em portaria que dispense o exercício efetivo."
     ],
-    "answer": 3,
+    "answer": 2,
     "comments": [
-      "O resultado foi o oposto: validou a EC 19, que retirou essa obrigatoriedade.",
-      "A eficácia foi ex nunc.",
-      "O conselho não substitui lei nem afasta a vedação de transmudação.",
-      "Correta. O julgamento preservou os vínculos existentes.",
-      "Não há conversão obrigatória; há proibição de converter os atuais vínculos."
+      "São procedimentos com finalidade diversa.",
+      "A Constituição não prevê essa conversão por novo concurso.",
+      "Correta. Tempo e cargo não dispensam a avaliação especial.",
+      "O § 4º exige comissão de avaliação, não homologação judicial rotineira.",
+      "Portaria não elimina os três anos constitucionalmente exigidos."
     ]
   },
   {
     "id": "dc-04-q14",
-    "section": "regime",
-    "source": "Aula 03, pp. 60–62; CF, arts. 37, VI e VII, 39, § 3º, e 142, § 3º; STF, Tema 541.",
-    "text": "Sobre servidores civis e militares estaduais, assinale a correta.",
+    "section": "estabilidade",
+    "source": "Aula 03, pp. 63–65; CF, arts. 41 e 169.",
+    "text": "Ente quer dispensar servidores estáveis como primeira medida de ajuste de despesa. Qual requisito prévio do art. 169 foi ignorado?",
     "options": [
-      "Policiais militares podem sindicalizar-se, mas não fazer greve.",
-      "Policiais civis não podem fazer greve, segundo o STF, e o Poder Público deve participar da mediação instaurada pelas entidades da categoria.",
-      "O servidor civil tem direito ilimitado de greve, independentemente de lei.",
-      "O art. 39, § 3º, estende ao servidor todos os direitos do art. 7º.",
-      "A livre associação sindical depende de autorização do chefe do Executivo."
+      "Extinção automática de todas as autarquias.",
+      "Redução de pelo menos 20% das despesas com comissão e confiança e exoneração de não estáveis, antes da hipótese excepcional de perda do estável.",
+      "Redução de 20% dos vencimentos de todos os estáveis.",
+      "Aprovação individual de cada dispensa por plebiscito.",
+      "Basta alegação genérica de economia, sem ato motivado."
     ],
     "answer": 1,
     "comments": [
-      "A remissão do art. 42 ao art. 142, § 3º, veda sindicalização e greve.",
-      "Correta. É a tese do Tema 541.",
-      "O inciso VII remete a lei específica; até ela, aplica-se a solução do MI 708, com limites.",
-      "A extensão é restrita aos incisos enumerados.",
-      "O art. 37, VI, garante a associação sem essa condição."
+      "Não é medida prévia prevista no § 3º.",
+      "Correta. A sequência protege o cargo estável; a perda posterior ainda tem requisitos próprios.",
+      "Confunde despesa comissionada e remuneração do servidor estável.",
+      "A Constituição não exige esse procedimento.",
+      "A hipótese posterior exige condições e motivação específicas."
     ]
   },
   {
     "id": "dc-04-q15",
     "section": "estabilidade",
-    "source": "Aula 03, pp. 63–65; CF, arts. 41 e 169, §§ 3º–7º.",
-    "text": "Para cumprir o limite de despesa com pessoal, um plano estadual propõe, como primeira medida, exonerar servidores estáveis de uma área com baixa demanda. Qual sequência constitucional deve ser observada?",
+    "source": "Aula 03, pp. 65–66; CF, arts. 37, § 13, e 41, §§ 2º–3º.",
+    "text": "Qual associação entre problema e instituto está correta?",
     "options": [
-      "Exonerar estáveis primeiro, porque a indenização compensa a perda do cargo.",
-      "Reduzir em 20% a remuneração de todos os estáveis antes de qualquer outra medida.",
-      "Pôr os estáveis em disponibilidade com remuneração integral, sem outras medidas.",
-      "Aplicar a avaliação especial de desempenho para identificar quem será exonerado.",
-      "Reduzir em pelo menos 20% as despesas com cargos em comissão e funções de confiança e exonerar não estáveis; só se insuficiente, perda do cargo do estável por ato normativo motivado, com indenização e extinção do cargo."
+      "Cargo extinto: aposentadoria compulsória imediata, qualquer que seja a idade.",
+      "Limitação física: exoneração necessária, mesmo havendo cargo compatível.",
+      "Demissão invalidada: apenas indenização, vedado retorno.",
+      "Demissão judicialmente invalidada: reintegração; cargo extinto: disponibilidade do estável; limitação compatível: readaptação com requisitos.",
+      "Disponibilidade: remuneração sempre integral e vínculo encerrado."
     ],
-    "answer": 4,
+    "answer": 3,
     "comments": [
-      "A indenização não altera a sequência obrigatória.",
-      "Não há essa autorização, e a irredutibilidade continua valendo.",
-      "Disponibilidade é instituto do art. 41, § 3º, com remuneração proporcional; não é a solução do art. 169.",
-      "Avaliação especial é condição para adquirir estabilidade, não critério do art. 169.",
-      "Correta. É a ordem dos §§ 3º a 6º do art. 169."
+      "Extinção do cargo não cria aposentadoria automática.",
+      "O art. 37, § 13, prevê readaptação com requisitos.",
+      "O art. 41, § 2º, determina reintegração do estável.",
+      "Correta. Cada instituto enfrenta situação distinta.",
+      "Há proporcionalidade ao tempo de serviço e posterior aproveitamento."
     ]
   },
   {
     "id": "dc-04-q16",
-    "section": "estabilidade",
-    "source": "Aula 03, pp. 63–66; CF, art. 41, §§ 2º–4º, e art. 37, § 13.",
-    "text": "Uma reestruturação extinguiu, por lei, o cargo de um servidor estável. Não houve excesso de despesa. Qual é a consequência constitucional?",
+    "section": "previdencia",
+    "source": "Aula 03, pp. 66–69; CF, art. 40, § 13; LC 152/2015.",
+    "text": "Uma pessoa ocupa exclusivamente cargo em comissão; outra é titular de cargo efetivo abrangido por RPPS. Qual ponto de partida é correto?",
     "options": [
-      "Recondução ao cargo de origem, com indenização.",
-      "Perda do cargo com indenização de um mês por ano de serviço.",
-      "Readaptação obrigatória, mantida a remuneração de origem.",
-      "Disponibilidade com remuneração proporcional ao tempo de serviço, até adequado aproveitamento em outro cargo.",
-      "Aposentadoria compulsória, independentemente da idade."
+      "Cargo exclusivamente comissionado segue RGPS; o vínculo efetivo pode integrar RPPS do ente, cuja aposentadoria exige regras próprias.",
+      "Ambas integram RPPS porque trabalham para a Administração.",
+      "Cargo efetivo sempre segue RGPS, independentemente do regime do ente.",
+      "Após três anos, cargo em comissão se converte em efetivo para previdência.",
+      "Todo servidor estadual se aposenta voluntariamente com idades federais impostas diretamente ao Estado."
     ],
-    "answer": 3,
+    "answer": 0,
     "comments": [
-      "Recondução é a consequência para o ocupante estável quando outro é reintegrado, e sem indenização.",
-      "Essa é a hipótese do art. 169, excluída no enunciado.",
-      "Readaptação pressupõe limitação física ou mental do servidor.",
-      "Correta. É a regra do art. 41, § 3º.",
-      "Extinção do cargo não gera aposentadoria."
+      "Correta. A natureza do vínculo antecede o cálculo do benefício.",
+      "O § 13 remete o comissionado exclusivo ao RGPS.",
+      "Ignora o desenho do art. 40.",
+      "Tempo de exercício não muda o tipo constitucional do vínculo.",
+      "A Constituição distingue União e demais entes na regra permanente."
     ]
   },
   {
     "id": "dc-04-q17",
     "section": "previdencia",
-    "source": "Aula 03, pp. 66–70; CF, art. 40, §§ 1º, 5º e 13; LC 152/2015.",
-    "text": "Assinale a correta sobre previdência de agentes públicos estaduais, segundo a redação vigente no corte do edital.",
+    "source": "Aula 03, pp. 68–72; CF, art. 40, §§ 1º, 5º, 8º e 19.",
+    "text": "Qual afirmação distingue corretamente aposentadoria compulsória, magistério e reajuste de benefício?",
     "options": [
-      "Quem ocupa exclusivamente cargo em comissão vincula-se ao RGPS, mesmo após anos no cargo.",
-      "A redução de cinco anos na idade alcança qualquer professor, inclusive do ensino superior.",
-      "A aposentadoria compulsória do servidor estadual ocorre aos 70 anos.",
-      "As idades de 62 e 65 anos valem diretamente para servidores estaduais.",
-      "Lei complementar estadual pode criar idade diferenciada para qualquer categoria profissional."
+      "Compulsória é sempre aos 62/65 anos, idades da regra voluntária federal.",
+      "Todo professor universitário obtém redução do § 5º apenas pelo cargo.",
+      "Preservação do valor real obriga a copiar todo reajuste dos ativos.",
+      "Abono de permanência tem valor constitucional obrigatório sempre superior à contribuição.",
+      "LC 152/2015 fixa compulsória aos 75 anos para servidores abrangidos; redução docente tem recorte educacional; valor real não implica paridade geral."
     ],
-    "answer": 0,
+    "answer": 4,
     "comments": [
-      "Correta. O § 13 aplica o RGPS a quem não é titular de cargo efetivo.",
-      "O § 5º restringe-se ao magistério na educação infantil e nos ensinos fundamental e médio.",
-      "A LC 152/2015 fixou 75 anos para servidores de todos os entes.",
-      "São idades da União; Estados as fixam por emenda à Constituição estadual.",
-      "Exceções são taxativas, e o § 4º-C veda caracterização por categoria ou ocupação."
+      "Confunde modalidades de aposentadoria.",
+      "O § 5º exige níveis educacionais específicos e condições legais.",
+      "Paridade exige fundamento específico.",
+      "O § 19 fala em critérios da lei e valor no máximo equivalente à contribuição.",
+      "Correta. Os três institutos têm fundamentos e destinatários diferentes."
     ]
   },
   {
     "id": "dc-04-q18",
-    "section": "controle",
-    "source": "Aula 03, pp. 47–48; CF, art. 37, §§ 1º e 6º.",
-    "text": "Ônibus de concessionária privada de transporte intermunicipal colide com um muro durante o serviço. Na mesma semana, a Secretaria divulga campanha sobre a nova linha com a foto e o nome do Secretário em destaque. Qual análise está correta?",
+    "section": "estabilidade",
+    "source": "Aula 03, pp. 50–51 e 66; CF, arts. 39–40; STF, ADI 2.135.",
+    "text": "Após a ADI 2.135, gestor pretende converter por portaria o regime dos servidores estaduais atuais para CLT. Qual leitura é correta?",
     "options": [
-      "A concessionária só responde se a vítima provar culpa do motorista.",
-      "A concessionária responde objetivamente pelo dano, com regresso contra o motorista se houver dolo ou culpa; a campanha não pode ter nome ou imagem que caracterize promoção pessoal.",
-      "A responsabilidade é do Estado, porque a concessionária é privada.",
-      "A campanha é válida, porque informar a nova linha é de interesse público.",
-      "O regresso contra o motorista dispensa dolo ou culpa."
+      "Todos os atuais servidores passaram automaticamente à CLT.",
+      "A decisão permite disciplina de futuros vínculos nos limites legais, mas vedou transmudação dos atuais; portaria não converte automaticamente o regime.",
+      "Concurso foi abolido para futuros servidores.",
+      "O estatuto federal 8.112 tornou-se aplicável a todos os Estados.",
+      "O julgamento autoriza qualquer mudança por ato individual sem lei."
     ],
     "answer": 1,
     "comments": [
-      "Prestadora de serviço público responde objetivamente; culpa importa no regresso.",
-      "Correta. Os §§ 6º e 1º disciplinam, respectivamente, as duas situações.",
-      "O § 6º alcança as pessoas privadas prestadoras de serviço público.",
-      "O caráter informativo não autoriza promoção pessoal.",
-      "O § 6º exige dolo ou culpa para o regresso."
+      "O STF vedou a transmudação dos vínculos atuais.",
+      "Correta. A eficácia prospectiva preserva os vínculos existentes.",
+      "A decisão não afasta o art. 37, II.",
+      "Seu âmbito federal não foi universalizado.",
+      "Organização futura continua sujeita às normas competentes."
     ]
   }
 ];
