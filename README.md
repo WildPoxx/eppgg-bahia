@@ -121,3 +121,63 @@ Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões in
 ## Administração Pública — AP-06
 
 `docs/modulos/ap-06/`: Terceirização e parcerias público-privadas; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ap-06.js`, módulo `ap-06`, versão 1. Fonte editorial no vault (Entregas Claude/ap-06).
+
+## Ética e Integridade Pública — EI-01
+
+`docs/modulos/ei-01/`: EI-01 — Princípios, valores, direitos e deveres no serviço público; 12 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ei-01.js`, módulo `ei-01`, versão 1. Fonte editorial no vault (Entregas Claude/ei-01).
+
+## Ética e Integridade Pública — EI-02
+
+`docs/modulos/ei-02/`: EI-02 — Gestão de riscos e medidas mitigatórias; 14 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ei-02.js`, módulo `ei-02`, versão 1. Fonte editorial no vault (Entregas Claude/ei-02).
+
+## Ética e Integridade Pública — EI-03
+
+`docs/modulos/ei-03/`: EI-03 — Accountability, transparência e qualidade na gestão pública; 12 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ei-03.js`, módulo `ei-03`, versão 1. Fonte editorial no vault (Entregas Claude/ei-03).
+
+## Ética e Integridade Pública — EI-04
+
+`docs/modulos/ei-04/`: EI-04 — Improbidade administrativa e Lei Anticorrupção; 12 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ei-04.js`, módulo `ei-04`, versão 1. Fonte editorial no vault (Entregas Claude/ei-04).
+
+## Ética e Integridade Pública — EI-05
+
+`docs/modulos/ei-05/`: EI-05 — Apuração de irregularidades, penalidades e o TCD baiano; 12 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ei-05.js`, módulo `ei-05`, versão 1. Fonte editorial no vault (Entregas Claude/ei-05).
+
+## Ética e Integridade Pública — EI-06
+
+`docs/modulos/ei-06/`: EI-06 — Acesso à informação: LAI, Lei baiana 12.618/2012 e Decreto 24.375/2026; 13 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ei-06.js`, módulo `ei-06`, versão 1. Fonte editorial no vault (Entregas Claude/ei-06).
+
+## Ética e Integridade Pública — EI-07
+
+`docs/modulos/ei-07/`: EI-07 — Programa Bahia de Integridade Pública (PBIP); 12 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ei-07.js`, módulo `ei-07`, versão 1. Fonte editorial no vault (Entregas Claude/ei-07).
+
+## Democracia, Cidadania, Diversidade e Igualdade — DM-01
+
+`docs/modulos/dm-01/`: DM-01 — Estado de direito, democracia, participação e presidencialismo; 13 questões autorais comentadas e impressão. Banco/interação em `docs/assets/dm-01.js`, módulo `dm-01`, versão 1. Fonte editorial no vault (Entregas Claude/dm-01).
+
+## Democracia, Cidadania, Diversidade e Igualdade — DM-02
+
+`docs/modulos/dm-02/`: DM-02 — Efetivação e reparação de direitos humanos; 10 questões autorais comentadas e impressão. Banco/interação em `docs/assets/dm-02.js`, módulo `dm-02`, versão 1. Fonte editorial no vault (Entregas Claude/dm-02).
+
+## Democracia, Cidadania, Diversidade e Igualdade — DM-03
+
+`docs/modulos/dm-03/`: Desigualdades, discriminações e diversidades (6.4 e 6.6); 13 questões autorais comentadas e impressão. Banco/interação em `docs/assets/dm-03.js`, módulo `dm-03`, versão 1. Fonte editorial no vault (Entregas Claude/dm-03).
+
+## Democracia, Cidadania, Diversidade e Igualdade — DM-04
+
+`docs/modulos/dm-04/`: Inclusão de grupos vulnerabilizados (6.7); 21 questões autorais comentadas e impressão. Banco/interação em `docs/assets/dm-04.js`, módulo `dm-04`, versão 1. Fonte editorial no vault (Entregas Claude/dm-04).
+
+## Democracia, Cidadania, Diversidade e Igualdade — DM-05
+
+`docs/modulos/dm-05/`: Desenvolvimento sustentável, meio ambiente e mudança climática (6.5); 20 questões autorais comentadas e impressão. Banco/interação em `docs/assets/dm-05.js`, módulo `dm-05`, versão 1. Fonte editorial no vault (Entregas Claude/dm-05).
+
+## Democracia, Cidadania, Diversidade e Igualdade — DM-06
+
+`docs/modulos/dm-06/`: Igualdade racial: Constituição da Bahia, Estatuto federal e Estatuto baiano (6.8, 6.9, 6.14); 20 questões autorais comentadas e impressão. Banco/interação em `docs/assets/dm-06.js`, módulo `dm-06`, versão 1. Fonte editorial no vault (Entregas Claude/dm-06).
+
+## Democracia, Cidadania, Diversidade e Igualdade — DM-07
+
+`docs/modulos/dm-07/`: Lei 7.716/1989 e Convenção de 1965 (6.10 e 6.11); 17 questões autorais comentadas e impressão. Banco/interação em `docs/assets/dm-07.js`, módulo `dm-07`, versão 1. Fonte editorial no vault (Entregas Claude/dm-07).
+
+## Democracia, Cidadania, Diversidade e Igualdade — DM-08
+
+`docs/modulos/dm-08/`: CEDAW, Lei Maria da Penha e Convenção de Belém do Pará (6.12, 6.13, 6.15); 22 questões autorais comentadas e impressão. Banco/interação em `docs/assets/dm-08.js`, módulo `dm-08`, versão 1. Fonte editorial no vault (Entregas Claude/dm-08).
