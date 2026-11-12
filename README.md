@@ -37,3 +37,7 @@ Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões in
 ## Constitucional — módulo 3
 
 `docs/modulos/constitucional-3/`: Organização do Estado, item 2.4, síntese e consulta, caso SAEB, 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/constitucional-3.js`, módulo `dc-03`, versão 1. Fonte canônica no vault: Organização do Estado.md e 05 - Questões/constitucional-3.json. Administração e servidores (2.5) reservado ao próximo módulo.
+
+## Constitucional — módulo 4
+
+`docs/modulos/constitucional-4/`: Administração Pública e servidores na Constituição, item 2.5, síntese, caso SAEB, 18 questões autorais comentadas e impressão. Banco/interação em `docs/assets/constitucional-4.js`, módulo `dc-04`, versão 1. Fonte canônica no vault: Administração Pública e servidores na Constituição.md e 05 - Questões/constitucional-4.json. Fontes e ressalvas constam do registro privado de leitura do DC-04.
