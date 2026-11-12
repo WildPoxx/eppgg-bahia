@@ -33,3 +33,7 @@ Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões in
 ## Constitucional — módulo 2
 
 `docs/modulos/constitucional-2/`: direitos e garantias fundamentais, síntese inicial, consulta temática, caso SAEB, vinte questões autorais comentadas e impressão. Banco/interação em `docs/assets/constitucional-2.js`, módulo `dc-02`, versão 1, armazenamento independente. Fonte editorial no vault: Direitos e garantias fundamentais.md e 05 - Questões/constitucional-2.json. Leitura de cinco PDFs/272 páginas; fontes oficiais e ressalvas temporais registradas.
+
+## Constitucional — módulo 3
+
+`docs/modulos/constitucional-3/`: Organização do Estado, item 2.4, síntese e consulta, caso SAEB, 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/constitucional-3.js`, módulo `dc-03`, versão 1. Fonte canônica no vault: Organização do Estado.md e 05 - Questões/constitucional-3.json. Administração e servidores (2.5) reservado ao próximo módulo.
