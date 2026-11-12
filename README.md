@@ -53,3 +53,71 @@ Módulo em `docs/modulos/portugues-texto-1/`: síntese, caso, cinco questões in
 ## Direito Administrativo — DA-02
 
 `docs/modulos/da-02/`: Organização administrativa; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-02.js`, módulo `da-02`, versão 1. Fonte editorial no vault.
+
+## Direito Administrativo — DA-03
+
+`docs/modulos/da-03/`: Agências, estatais e entidades paraestatais; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-03.js`, módulo `da-03`, versão 1. Fonte editorial no vault (Entregas Claude/da-03).
+
+## Direito Administrativo — DA-04
+
+`docs/modulos/da-04/`: Poderes administrativos; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-04.js`, módulo `da-04`, versão 1. Fonte editorial no vault (Entregas Claude/da-04).
+
+## Direito Administrativo — DA-05
+
+`docs/modulos/da-05/`: Atos administrativos; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-05.js`, módulo `da-05`, versão 1. Fonte editorial no vault (Entregas Claude/da-05).
+
+## Direito Administrativo — DA-06
+
+`docs/modulos/da-06/`: Responsabilidade civil do Estado; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-06.js`, módulo `da-06`, versão 1. Fonte editorial no vault (Entregas Claude/da-06).
+
+## Direito Administrativo — DA-07
+
+`docs/modulos/da-07/`: Licitações: Lei 14.133/2021 e Lei baiana 14.634/2023; 18 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-07.js`, módulo `da-07`, versão 1. Fonte editorial no vault (Entregas Claude/da-07).
+
+## Direito Administrativo — DA-08
+
+`docs/modulos/da-08/`: Contratos administrativos; 18 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-08.js`, módulo `da-08`, versão 1. Fonte editorial no vault (Entregas Claude/da-08).
+
+## Direito Administrativo — DA-09
+
+`docs/modulos/da-09/`: Disciplina baiana das contratações: instrumentos complementares da Lei 14.634/2023; 14 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-09.js`, módulo `da-09`, versão 1. Fonte editorial no vault (Entregas Claude/da-09).
+
+## Direito Administrativo — DA-10
+
+`docs/modulos/da-10/`: Controle da Administração Pública e Tribunal de Contas da Bahia; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-10.js`, módulo `da-10`, versão 1. Fonte editorial no vault (Entregas Claude/da-10).
+
+## Direito Administrativo — DA-11
+
+`docs/modulos/da-11/`: Bens públicos e domínio público; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-11.js`, módulo `da-11`, versão 1. Fonte editorial no vault (Entregas Claude/da-11).
+
+## Direito Administrativo — DA-12
+
+`docs/modulos/da-12/`: Serviços públicos, concessões, PPP e regulação; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-12.js`, módulo `da-12`, versão 1. Fonte editorial no vault (Entregas Claude/da-12).
+
+## Direito Administrativo — DA-13
+
+`docs/modulos/da-13/`: Agentes públicos e estatuto dos servidores da Bahia; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-13.js`, módulo `da-13`, versão 1. Fonte editorial no vault (Entregas Claude/da-13).
+
+## Direito Administrativo — DA-14
+
+`docs/modulos/da-14/`: Processo administrativo na Bahia (Lei 12.209/2011); 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/da-14.js`, módulo `da-14`, versão 1. Fonte editorial no vault (Entregas Claude/da-14).
+
+## Administração Pública — AP-02
+
+`docs/modulos/ap-02/`: Burocracia, paradigmas de gestão, bem-estar e reforma do Estado; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ap-02.js`, módulo `ap-02`, versão 1. Fonte editorial no vault (Entregas Claude/ap-02).
+
+## Administração Pública — AP-03
+
+`docs/modulos/ap-03/`: Federalismo, relações intergovernamentais, municipalização e consórcios; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ap-03.js`, módulo `ap-03`, versão 1. Fonte editorial no vault (Entregas Claude/ap-03).
+
+## Administração Pública — AP-04
+
+`docs/modulos/ap-04/`: Organizações sociais no modelo baiano (Lei 15.176/2026); 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ap-04.js`, módulo `ap-04`, versão 1. Fonte editorial no vault (Entregas Claude/ap-04).
+
+## Administração Pública — AP-05
+
+`docs/modulos/ap-05/`: Marco Regulatório das Organizações da Sociedade Civil (MROSC); 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ap-05.js`, módulo `ap-05`, versão 1. Fonte editorial no vault (Entregas Claude/ap-05).
+
+## Administração Pública — AP-06
+
+`docs/modulos/ap-06/`: Terceirização e parcerias público-privadas; 16 questões autorais comentadas e impressão. Banco/interação em `docs/assets/ap-06.js`, módulo `ap-06`, versão 1. Fonte editorial no vault (Entregas Claude/ap-06).
